@@ -1,12 +1,12 @@
 # [WIP] vue-next-clipboard
 
 <p align="center">
-Clipboard utilitie for [vue-next](https://github.com/vuejs/vue-next).
+Clipboard utilities for <a href="https://github.com/vuejs/vue-next" target="_blank">vue-next</a>.
 </p>
 
 ## Install
 
-```bash 
+```bash
 npm install --save vue-next-clipboard
 # or
 yarn add vue-next-clipboard
